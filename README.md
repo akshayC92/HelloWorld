@@ -1,5 +1,3 @@
 # HelloWorld
 
 Hello World Repository
-
-
